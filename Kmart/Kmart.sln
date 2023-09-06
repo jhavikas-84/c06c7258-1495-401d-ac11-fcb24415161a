@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kmart.Core", "Kmart.Core\Kmart.Core.csproj", "{3DFCA25D-6BFA-4638-BE0A-DDAD8E249943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kmart.ConsoleApp", "Kmart.ConsoleApp\Kmart.ConsoleApp.csproj", "{9E540181-0839-4C70-A441-10672A3CCAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFCA25D-6BFA-4638-BE0A-DDAD8E249943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFCA25D-6BFA-4638-BE0A-DDAD8E249943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFCA25D-6BFA-4638-BE0A-DDAD8E249943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFCA25D-6BFA-4638-BE0A-DDAD8E249943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E540181-0839-4C70-A441-10672A3CCAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E540181-0839-4C70-A441-10672A3CCAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E540181-0839-4C70-A441-10672A3CCAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E540181-0839-4C70-A441-10672A3CCAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97960577-8CC1-4967-8E1D-AC54B2E27B16}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/c06c7258-1495-401d-ac11-fcb24415161a/v17/.wsuo
+*.vsidx
+/.vs/slnx.sqlite
+*.suo
+*.v2
+*.bin
+/Kmart/Kmart.Core/obj
+/Kmart/Kmart.ConsoleApp/bin/Debug/net7.0
+/Kmart/Kmart.ConsoleApp/obj
+/Kmart/Kmart.Core/bin/Debug/net7.0
+/.vs/VSWorkspaceState.json

@@ -13,3 +13,6 @@
 /Kmart/Kmart.ConsoleApp/obj
 /Kmart/Kmart.Core/bin/Debug/net7.0
 /.vs/VSWorkspaceState.json
+/Kmart/Kmart.UnitTest/bin
+/Kmart/Kmart.UnitTest/obj
+/Kmart/.vs/Kmart/v17/TestStore/0

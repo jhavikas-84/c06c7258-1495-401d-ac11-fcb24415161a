@@ -10,6 +10,9 @@ Develop a function that takes one string input of any number of integers separat
 *Please run the `Program` file in the Kmart.ConsoleApp, you can change the input value by using the `inputString` variable*
 *Alternatively you can run the Test Cases in the `Kmart.UnitTest` project*
 
+![image](https://github.com/jhavikas-84/c06c7258-1495-401d-ac11-fcb24415161a/assets/144097762/2c8540d2-dc5d-4a21-953d-0a900602c96f)
+
+
 `Solution Structure`
 
 ![image](https://github.com/jhavikas-84/c06c7258-1495-401d-ac11-fcb24415161a/assets/144097762/7377cf6c-aa72-4f58-9b68-b23d8c8c7e14)
